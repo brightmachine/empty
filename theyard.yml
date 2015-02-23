@@ -1,0 +1,3 @@
+vagrantConfig:
+  cloneTo: client/repo-name
+  vhost:
